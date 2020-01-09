@@ -2,12 +2,12 @@
 
 ![datasouth](datasouth.png)
 
-[Contact](datasouth@protonmail.com) us to find out more about our data tailoring solutions
 
 projects
+
 - satellite data
 - conv nets
-- websites
+- web sites
 - data tailoring
 
-contact here
+contact me at datasouth@protonmail.com
