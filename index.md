@@ -4,7 +4,7 @@
 
 
 projects and useful links
-- web sites [>](/websites/)
+- web sites [>](websites/)
 - data cleaning and structuring.
-- managing environments and running locally [>](/working_locally/)
+- managing environments and running locally [>](working_locally/)
 
