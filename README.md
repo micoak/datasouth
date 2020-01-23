@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to Datasouth on GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/chryket/datasouth/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A collection of documents and links to helpful open source resources. Github uses jekyll in the background to generate a website from the markdown pages below. [see here](https://chryket.github.io/datasouth/). To get a local version working check the docs [here](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### websites
 
-### Markdown
+We think the JAMStack is going to make the web fun again, but there are lots of choices. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### working local sites
+- trudat.co.za 
+    - mkdocs in progress
+- trudat.online 
+    - jekyll in progress 
+    - hosted by netlify
 
-```markdown
-Syntax highlighted code block
+#### example sites courtesy of [stackbit](https://www.stackbit.com/) and netlify
+- moak-stackbit  https://moaktest-stackbit-7a070.netlify.com/
+- magenta-europa https://magenta-europa-71896.netlify.com/
+- kind owl https://kind-owl-16b99.netlify.com/
 
-# Header 1
-## Header 2
-### Header 3
+### working locally
 
-- Bulleted
-- List
+you need to run your website on your pc to test and preview. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chryket/datasouth/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- python 
+- ruby
+- laravel
+- other?
