@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  chryket
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 

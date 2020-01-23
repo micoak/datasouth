@@ -1,4 +1,6 @@
-environments
+---
+title: useful docs and snippets
+---
 
 ## python
 

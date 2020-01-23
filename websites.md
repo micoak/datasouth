@@ -1,5 +1,5 @@
 ---
-title: websites
+title: Site Generators
 layout: default
 ---
 ## Static sites 
