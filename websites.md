@@ -1,4 +1,8 @@
-## Static site intro
+---
+title: websites
+layout: default
+---
+## Static sites 
 
 ## mkdocs 
 
