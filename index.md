@@ -1,6 +1,6 @@
 ## Context Driven Data 
 
-![datasouth](datasouth.png)
+![datasouth](images/datasouth.png)
 
 
 projects and useful links
