@@ -3,11 +3,8 @@
 ![datasouth](datasouth.png)
 
 
-projects
+projects and useful links
+- web sites [>](/websites/)
+- data cleaning and structuring.[>](#notebooks/)
+- managing environments and running locally[>](working_locally/)
 
-- satellite data
-- conv nets
-- web sites
-- data tailoring
-
-contact me at datasouth@protonmail.com
