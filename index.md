@@ -1,7 +1,3 @@
----
-title: DataSouth
----
-
 ## Context Driven Data 
 
 projects and docs
